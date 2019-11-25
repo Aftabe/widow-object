@@ -3,6 +3,6 @@ var txt = 'Hello Window!';
  var fun = function() {
      var txt = 'Hello function';
 
-     alert(txt);
+     alert(window.txt);
  };
  fun();
