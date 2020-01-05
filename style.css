@@ -4,12 +4,12 @@
 }
 
 body {
-    background-color: grey;
+    background-color: rgb(180, 177, 177);
 }
 
 h1 {
     text-align: center;
     margin-top: 20px;
-    text-transform: capitalize;
+    text-transform: uppercase;
     padding: 7px;
 }
