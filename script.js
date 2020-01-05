@@ -5,7 +5,7 @@ var txt = 'Hello Window!';
      var txt = 'Hello function';
 
      alert(txt);
-     alert(txt);
+     alert(window.txt);
  };
  fun();
 // window object in js, exmaple two
@@ -13,6 +13,6 @@ var txt = 'Hello Window!';
  var fun = function() {
      var txt = 'Hello function';
 
-     alert(window.txt);
+     alert(txt);
  };
  fun();
