@@ -70,4 +70,14 @@ h1 {
 
 
 
-/* test-container style */
+/* Table */
+.box{
+    background-color: red;
+    height: 170px;
+    width: 200px;
+}
+
+#table th{
+    font-size: 14px;
+    margin-left: 10px !important;
+}
