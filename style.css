@@ -106,6 +106,7 @@ button{
 }
 
 .hove-btn{
+    display: inline;
     margin-left: 90px;
     text-decoration: none;
     padding: 7px;
