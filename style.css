@@ -77,6 +77,12 @@ h1 {
     height: 170px;
     width: 200px;
     position: absolute;
+    margin-top: 7px;
+    /* padding: 10px; */
+}
+
+.table{
+    margin-bottom: 12px;
 }
 
 #table th{
