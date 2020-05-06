@@ -101,6 +101,9 @@ button{
 
 .hove-btn{
     margin-left: 90px;
+    text-decoration: none;
+    padding: 7px;
+    border: 1px solid #333333;
 }
 
 .hove-btn:hover .box{
