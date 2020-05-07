@@ -25,11 +25,13 @@ body {
 /* Left and right column */
 .column.side {
     width: 25%;
+    background-color: green;
 }
 
 /* Middle column */
 .column.middle {
     width: 50%;
+    background-color: greenyellow;
 }
 
 /* Clear floats after the columns */
