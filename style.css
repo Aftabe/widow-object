@@ -111,6 +111,7 @@ button{
     text-decoration: none;
     padding: 7px;
     border: 1px solid #333333;
+    cursor: pointer;
 }
 
 .hove-btn:hover .box{
