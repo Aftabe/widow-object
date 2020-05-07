@@ -2,4 +2,11 @@
 console.log('Logy!');
 }());
 
-console.log(document.all[0]);
+let info = document.all[11].value;
+
+
+
+
+
+
+console.log(info);
